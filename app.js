@@ -71,3 +71,10 @@ function reiniciarJogo() {
 
 
 
+
+
+
+
+
+
+
